@@ -3,6 +3,8 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">JeffreyWorld</a> 
 
 💬 Ask me about anything [here](https://github.com/jeffreyxuworld/jeffreyxuworld/issues)
 
+![Jeffrey’s github stats](https://github-readme-stats.vercel.app/api?username=jeffreyxuworld&show_icons=true&theme=merko)
+
 ## 博客文章
 
 * [RecyclerView 的缓存剖析](https://www.jianshu.com/p/9616645f1a11)
