@@ -15,4 +15,5 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">JeffreyWorld</a> 
 * [Android 生成通知栏以及点击通知栏跳转](https://www.jianshu.com/p/0aa868d8a84c)
 * [Android 做高斯模糊背景时，过渡的地方要求平滑的解决方案](https://www.jianshu.com/p/41a219ef63ff)
 * [Android版本更新弹框，内部包括：强制/非强制更新、内部下载（适配8.0以上）/跳转浏览器下载安装，等等相关功能](https://www.jianshu.com/p/9f4d8b1fef39) 
+* [Android10.0(Q)中 Activity finish() 后干了什么事](https://www.jianshu.com/p/f8ee79d40ce1) 
 
