@@ -1,5 +1,6 @@
 # jeffrey
 Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">JeffreyWorld</a> ， 我是 「 JeffreyWorld」 👋 
+我的微信/电话：18516188518
 
 💬 Ask me about anything [here](https://github.com/jeffreyxuworld/jeffreyxuworld/issues)
 
