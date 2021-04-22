@@ -1,5 +1,5 @@
 # jeffrey
-Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">JeffreyWorld</a> ， 我是 「 JeffreyWorld」 👋 
+Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， 我是 「 Jeffrey」 👋 
 我的微信：xuleijvbw
 
 💬 Ask me about anything [here](https://github.com/jeffreyxuworld/jeffreyxuworld/issues)
