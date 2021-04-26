@@ -1,6 +1,27 @@
 # jeffrey
 Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， 我是 「 Jeffrey」 👋 
 我的微信：xuleijvbw
+
+Founder of the website : www.artword.cn（下载 Clubtalk APP 安卓版本）
+🧜🏻‍♂️AI、Arts、music、sketch、outdoor、history
+🎲♟🧩Boardgames
+🎭🔬🩸🧬🚔Murder  mestery
+🏆NLP、VR、AR、Smart speaker
+🧑‍💻Android Developer、hacker
+🎸Guitar lover
+
+📍Base in Hangzhou,China🇨🇳（Jeffrey）
+
+Ex-RavenTech(YC W15)、微软加速器(北京)第五期校友
+
+和同事花20天左右，自驾从旧金山到纽约
+
+🌱Love to travel...
+🛸🚀✈️🛩🇷🇺、🇺🇸、🇻🇳、🇹🇭、🇯🇵🚤🛥🚢🚁
+
+去过俄罗斯的城市：莫斯科、圣彼得堡、符拉迪沃斯托克
+去过日本的城市：京都、大阪、奈良
+
 ## 近期参与开发 APP、游戏
 * [新物集](https://appstore.huawei.com/#/app/C100241271)
 * [剧本杀](https://appstore.huawei.com/#/app/C100395391)
