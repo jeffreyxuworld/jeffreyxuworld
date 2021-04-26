@@ -1,6 +1,11 @@
 # jeffrey
 Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， 我是 「 Jeffrey」 👋 
 我的微信：xuleijvbw
+## 近期参与开发 APP、游戏
+* [新物集](https://appstore.huawei.com/#/app/C100241271)
+* [剧本杀](https://appstore.huawei.com/#/app/C100395391)
+* [翻糖小说](https://appstore.huawei.com/#/app/C101037025)
+* [三国学园 待上架](https://appstore.huawei.com)
 
 💬 Ask me about anything [here](https://github.com/jeffreyxuworld/jeffreyxuworld/issues)
 
