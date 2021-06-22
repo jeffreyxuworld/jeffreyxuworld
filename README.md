@@ -2,7 +2,6 @@
 Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， 我是 「 Jeffrey」 👋 
 我的微信：xuleijvbw
 
-- Founder of the website : www.artword.cn （下载 Clubtalk APP 安卓版本）
 - AI、Arts、music、sketch、outdoor、history
 - 🎲♟🧩Boardgames
 - 🎭🔬🩸🧬🚔Murder  mestery
