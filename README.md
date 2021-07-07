@@ -32,6 +32,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 ![Jeffrey’s github stats](https://github-readme-stats.vercel.app/api?username=jeffreyxuworld&show_icons=true&theme=merko)
 
 ## 博客文章
+* [Android APP 如何去符合工信部上架应用商店的要求](https://www.jianshu.com/p/bcf8c3d23e25)
 * [Android 读取网络链接的 9.png 图片，功能实现](https://www.jianshu.com/p/6a387fda413b)
 * [在Android项目中原生写游戏APP，使用Java-WebSocket的一些总结](https://www.jianshu.com/p/0e104d64748c)
 * [RecyclerView 的缓存剖析](https://www.jianshu.com/p/9616645f1a11)
