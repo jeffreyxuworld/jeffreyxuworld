@@ -2,10 +2,10 @@
 Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， 我是 「 Jeffrey」 👋 
 我的微信：xuleijvbw
 
-- AI、Arts、music、sketch、outdoor、history
+- AI、Metaverse、Arts、music、sketch、outdoor、history
 - 🎲♟🧩Boardgames
 - 🎭🔬🩸🧬🚔Murder  mestery
-- 🏆NLP、VR、AR、Smart speaker
+- 🏆NLP、VR、AR、XR、Smart speaker
 - 🧑‍💻Android Developer、hacker
 - 🎸Guitar lover
 
