@@ -32,7 +32,8 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 ![Jeffrey’s github stats](https://github-readme-stats.vercel.app/api?username=jeffreyxuworld&show_icons=true&theme=merko)
 
 ## 博客文章
-* [RxLifecycle 的使用以及相关源码](https://www.jianshu.com/p/f41efcf43257)
+* [RxLifecycle 的使用以及相关源码](https://www.jianshu.com/p/89d399f3b67e)
+* [RxJava3 Subject 用法及相关源码](https://www.jianshu.com/p/f41efcf43257)
 * [AndroidX Lifecycle 里 LifecycleRegistry 等相关源码](https://www.jianshu.com/p/7e8a1d6029f3)
 * [Android 里的 LiveData 进化成 Kotlin 的 Flow](https://www.jianshu.com/p/0cc24c17fa4a)
 * [Android APP 如何去符合工信部上架应用商店的要求](https://juejin.cn/post/7042597458924273671)
