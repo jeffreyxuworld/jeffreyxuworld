@@ -13,7 +13,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 
 - Ex-RavenTech(YC W15)、微软加速器(北京)第五期校友
 
-- 和同事花20天左右，自驾从旧金山到纽约
+- 开车从旧金山到纽约
 
 - 🌱Love to travel...
 - 🛸🚀✈️🛩 🇷🇺、🇺🇸、🇻🇳、🇹🇭、🇯🇵 🚤🛥🚢🚁
