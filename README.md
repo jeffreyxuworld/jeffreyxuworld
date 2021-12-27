@@ -26,6 +26,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 * [剧本杀](https://appstore.huawei.com/#/app/C100395391)
 * [翻糖小说](https://appstore.huawei.com/#/app/C101037025)
 * [桌上学园](https://hi.sanguosha.cn)
+* [小游观世界](https://appstore.huawei.com/#/app/C104660865)
 
 💬 Ask me about anything [here](https://github.com/jeffreyxuworld/jeffreyxuworld/issues)
 
