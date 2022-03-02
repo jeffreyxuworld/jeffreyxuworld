@@ -4,19 +4,11 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 
  # 大家新年快乐 虎虎生威！
 
-**游卡（https://www.yokaverse.com） 2月份重点内推岗位，想找新工作的可以联系我。**
+**游卡 YOKAVERSE（www.yokaverse.com） 3月最新内推岗位上线啦，杭州、上海、成都均有岗位
+想找新工作的可以私信我。
+也可以直接加我微信：xuleijvbw**
 
-- 杭州-c++/lua服务器开发，Unity客户端，Cocos2d客户端
-
-- 杭州-游戏功能测试，软件功能测试，测试开发
-
-- 杭州-规则策划，资源策划
-
-- 杭州-技术美术，资深unity场景地编
-
-- 上海-游戏测试
-
-![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3bf31a3ae2d54b119d713a4d2e7f789b~tplv-k3u1fbpfcp-watermark.image?)
+![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1d30b6284cf44a1bb2e0367a9f0cd0a3~tplv-k3u1fbpfcp-watermark.image?)
 
 
 - AI、Metaverse、Arts、music、sketch、outdoor、history
