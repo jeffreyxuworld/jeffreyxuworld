@@ -44,6 +44,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 ![Jeffrey’s github stats](https://github-readme-stats.vercel.app/api?username=jeffreyxuworld&show_icons=true&theme=merko)
 
 ## 博客文章
+* [Android 项目的 Code Reviewer 清单](https://www.jianshu.com/p/ed99726f3d95)
 * [RxLifecycle 的使用以及相关源码](https://www.jianshu.com/p/89d399f3b67e)
 * [RxJava3 Subject 用法及相关源码](https://www.jianshu.com/p/f41efcf43257)
 * [AndroidX Lifecycle 里 LifecycleRegistry 等相关源码](https://www.jianshu.com/p/7e8a1d6029f3)
