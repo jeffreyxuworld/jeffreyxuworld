@@ -2,15 +2,15 @@
 Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， 我是 「 Jeffrey」 👋 
 我的微信：xuleijvbw
 
- # 大家新年快乐 虎虎生威！
+ # 大家2022年 虎虎生威！
 
-**游卡 YOKAVERSE（www.yokaverse.com） 3月最新内推岗位上线啦，杭州、上海、成都均有岗位**
+**游卡 YOKAVERSE（www.yokaverse.com） 五月最新内推岗位上线啦，杭州、上海、成都均有岗位**
 
 **想找新工作的可以私信我。**
 
 **也可以直接加我微信：xuleijvbw**
 
-![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1d30b6284cf44a1bb2e0367a9f0cd0a3~tplv-k3u1fbpfcp-watermark.image?)
+![image.png](https://upload-images.jianshu.io/upload_images/633041-e1e69ebf36261f27.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 - AI、Metaverse、Arts、music、sketch、outdoor、history
