@@ -10,7 +10,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 
 **也可以直接加我微信：xuleijvbw**
 
-![image.png](https://upload-images.jianshu.io/upload_images/633041-e1e69ebf36261f27.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/633041-2287cd03aac5c5aa.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 - AI、Metaverse、Arts、music、sketch、outdoor、history
@@ -44,6 +44,9 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 ![Jeffrey’s github stats](https://github-readme-stats.vercel.app/api?username=jeffreyxuworld&show_icons=true&theme=merko)
 
 ## 博客文章
+* [Android 上的 Kotlin 协程，由浅入深](https://www.jianshu.com/p/301bacbda239)
+* [Kotlin 的锁和多线程同步](https://www.jianshu.com/p/7dbd035d152d)
+* [Android 上的 Kotlin Flow(数据流)， 由浅入深](https://www.jianshu.com/p/281093cabbc7)
 * [Android 项目的 Code Reviewer 清单](https://www.jianshu.com/p/ed99726f3d95)
 * [RxLifecycle 的使用以及相关源码](https://www.jianshu.com/p/89d399f3b67e)
 * [RxJava3 Subject 用法及相关源码](https://www.jianshu.com/p/f41efcf43257)
