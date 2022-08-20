@@ -10,7 +10,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 
 **也可以直接加我微信：xuleijvbw**
 
-![image.png](https://upload-images.jianshu.io/upload_images/633041-2287cd03aac5c5aa.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/633041-6e0e4934dc51970e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/800)
 
 
 - AI、Metaverse、Arts、music、sketch、outdoor、history
