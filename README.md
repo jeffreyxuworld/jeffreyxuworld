@@ -4,7 +4,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 
  # 大家2022年 虎虎生威！
 
-**游卡 YOKAVERSE（www.yokaverse.com） 五月最新内推岗位上线啦，杭州、上海、成都均有岗位**
+**游卡 YOKAVERSE（www.yokaverse.com） 八月最新内推岗位上线啦，杭州、上海、成都均有岗位**
 
 **想找新工作的可以私信我。**
 
