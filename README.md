@@ -44,6 +44,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 ![Jeffrey’s github stats](https://github-readme-stats.vercel.app/api?username=jeffreyxuworld&show_icons=true&theme=merko)
 
 ## 博客文章
+* [【最新版】Android APP 如何去符合工信部上架应用商店的要求](https://www.jianshu.com/p/0405713cd975)
 * [Android 多渠道打包的方案总结](https://www.jianshu.com/p/0405713cd975)
 * [Android 上的 Kotlin 协程，由浅入深](https://www.jianshu.com/p/301bacbda239)
 * [Kotlin 的锁和多线程同步](https://www.jianshu.com/p/7dbd035d152d)
