@@ -43,6 +43,9 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 ![Jeffrey’s github stats](https://github-readme-stats.vercel.app/api?username=jeffreyxuworld&show_icons=true&theme=merko)
 
 ## 博客文章
+* [Android 场景动画 Scene 的一些剖析](https://www.jianshu.com/p/970da6b96783)
+* [Android 使用腾讯云推送方案比个推或极光等推送方案更好吗](https://www.jianshu.com/p/12fcfc460482)
+* [Android 扫码二维码（条形码）方案对比](https://www.jianshu.com/p/3aa5268b9f3f)
 * [【最新版】Android APP 如何去符合工信部上架应用商店的要求](https://www.jianshu.com/p/0405713cd975)
 * [Android 多渠道打包的方案总结](https://www.jianshu.com/p/0405713cd975)
 * [Android 上的 Kotlin 协程，由浅入深](https://www.jianshu.com/p/301bacbda239)
