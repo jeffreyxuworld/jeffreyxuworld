@@ -8,7 +8,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 
 **想找新工作的可以私信我。**
 
-**也可以直接加我微信：xuleijvbw**
+**也可以直接加我微信：JeffreyVerse**
 
 ![](https://upload-images.jianshu.io/upload_images/633041-d5f0e1dcfe46a808.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
 
