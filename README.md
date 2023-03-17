@@ -10,7 +10,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 
 **也可以直接加我微信：xuleijvbw**
 
-![](https://upload-images.jianshu.io/upload_images/633041-0d1c5a637a72ead5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
+![](https://upload-images.jianshu.io/upload_images/633041-d5f0e1dcfe46a808.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
 
 - AI、Metaverse、Arts、music、sketch、outdoor、history
 - 🎲♟🧩Boardgames
@@ -43,6 +43,9 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 ![Jeffrey’s github stats](https://github-readme-stats.vercel.app/api?username=jeffreyxuworld&show_icons=true&theme=merko)
 
 ## 博客文章
+
+* [关于Android桌面小组件相关的开发，涉及到的一些点](https://www.jianshu.com/p/0b0e258a49d5)
+* [Android 两种方式实现图片高斯模糊](https://www.jianshu.com/p/bf8ab1f2185a)
 * [Android 场景动画 Scene 的一些剖析](https://www.jianshu.com/p/970da6b96783)
 * [Android 使用腾讯云推送方案比个推或极光等推送方案更好吗](https://www.jianshu.com/p/12fcfc460482)
 * [Android 扫码二维码（条形码）方案对比](https://www.jianshu.com/p/3aa5268b9f3f)
