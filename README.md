@@ -1,44 +1,23 @@
 # jeffrey
 Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， 我是 「 Jeffrey」 👋 
-我的微信：xuleijvbw
-
- # 大家2022年 虎虎生威！
 
 **游卡 YOKAVERSE（www.yokaverse.com） 最新内推岗位上线啦，杭州、上海、成都均有岗位**
 
 **想找新工作的可以私信我。**
 
-**也可以直接加我微信：JeffreyVerse**
 
-![](https://upload-images.jianshu.io/upload_images/633041-d5f0e1dcfe46a808.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
-
-- AI、Metaverse、Arts、music、sketch、outdoor、history
-- 🎲♟🧩Boardgames
-- 🎭🔬🩸🧬🚔Murder  mestery
-- 🏆NLP、VR、AR、XR、Smart speaker
-- 🧑‍💻Android Developer、hacker
-- 🎸Guitar lover
+![](https://upload-images.jianshu.io/upload_images/633041-1e7367d11a17d833.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
 
 - 📍Base in Hangzhou,China 🇨🇳（Jeffrey）
 
 - Ex-RavenTech(YC W15)、微软加速器(北京)第五期校友
 
-- 开车从旧金山到纽约
-
-- 🌱Love to travel...
-- 🛸🚀✈️🛩 🇷🇺、🇺🇸、🇻🇳、🇹🇭、🇯🇵 🚤🛥🚢🚁
-
-- 去过俄罗斯的城市：莫斯科、圣彼得堡、符拉迪沃斯托克
-- 去过日本的城市：京都、大阪、奈良
 
 ## 近期参与开发 APP、游戏
 * [新物集](https://app.mi.com/details?id=com.youkagames.gameplatform)
 * [小游观世界](https://appstore.huawei.com/#/app/C104660865)
 * [剧本杀](https://apps.apple.com/cn/app/%E5%89%A7%E6%9C%AC%E6%9D%80-%E8%A1%80%E6%9F%93%E9%92%9F%E6%A5%BC-%E5%89%A7%E6%9C%AC%E6%9D%80%E5%A4%A7%E4%BE%A6%E6%8E%A2-%E5%89%A7%E6%83%85%E5%85%83%E5%AE%87%E5%AE%99%E7%A4%BE%E4%BA%A4%E8%BD%AF%E4%BB%B6/id1429480423)
 * [桌上学园](https://hi.sanguosha.cn)
-
-
-💬 Ask me about anything [here](https://github.com/jeffreyxuworld/jeffreyxuworld/issues)
 
 ![Jeffrey’s github stats](https://github-readme-stats.vercel.app/api?username=jeffreyxuworld&show_icons=true&theme=merko)
 
