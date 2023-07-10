@@ -1,12 +1,12 @@
 # jeffrey
 Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， 我是 「 Jeffrey」 👋 
 
-**游卡 YOKAVERSE（www.yokaverse.com） 最新内推岗位上线啦，杭州、上海、成都均有岗位**
+**游卡 YOKAVERSE（www.yokaverse.com） 最新内推岗位上线啦**
 
 **想找新工作的可以私信我。**
 
 
-![](https://upload-images.jianshu.io/upload_images/633041-1e7367d11a17d833.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
+![](https://upload-images.jianshu.io/upload_images/633041-561443442c846c6e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
 
 - 📍Base in Hangzhou,China 🇨🇳（Jeffrey）
 
