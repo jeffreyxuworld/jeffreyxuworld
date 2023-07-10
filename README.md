@@ -6,7 +6,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> ， �
 **想找新工作的可以私信我。**
 
 
-![](https://upload-images.jianshu.io/upload_images/633041-561443442c846c6e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
+![](https://upload-images.jianshu.io/upload_images/633041-561443442c846c6e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 
 - 📍Base in Hangzhou,China 🇨🇳（Jeffrey）
 
