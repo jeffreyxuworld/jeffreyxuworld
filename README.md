@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> 👋
 
 - 📍Base in Hangzhou,China 🇨🇳（Jeffrey）
 
-- Ex-杭州游卡网络网络技术有限公司、Ex-渡鸦科技(YC W15)、微软加速器(北京)第五期校友
+- Ex-杭州游卡网络技术有限公司、Ex-渡鸦科技(YC W15)、微软加速器(北京)第五期校友
 
 
 ## 近期参与开发的部分产品如下：
