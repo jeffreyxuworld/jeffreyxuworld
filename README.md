@@ -9,9 +9,9 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> 👋
 ## 近期参与开发的部分产品如下：
 * [新物集](https://app.mi.com/details?id=com.youkagames.gameplatform)
 * [小游观世界](https://appstore.huawei.com/#/app/C104660865)
-* [剧本杀](https://apps.apple.com/cn/app/%E5%89%A7%E6%9C%AC%E6%9D%80-%E8%A1%80%E6%9F%93%E9%92%9F%E6%A5%BC-%E5%89%A7%E6%9C%AC%E6%9D%80%E5%A4%A7%E4%BE%A6%E6%8E%A2-%E5%89%A7%E6%83%85%E5%85%83%E5%AE%87%E5%AE%99%E7%A4%BE%E4%BA%A4%E8%BD%AF%E4%BB%B6/id1429480423)
-  安卓端扫如下二维码：
-  ![](https://github.com/jeffreyxuworld/jeffreyxuworld.github.io/blob/master/jubensha.jpeg?raw=true)
+* 剧本杀
+
+![](https://github.com/jeffreyxuworld/jeffreyxuworld.github.io/blob/master/jubensha.jpeg?raw=true)
 
 ![Jeffrey’s github stats](https://github-readme-stats.vercel.app/api?username=jeffreyxuworld&show_icons=true&theme=merko)
 
