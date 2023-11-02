@@ -11,7 +11,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> 👋
 * [小游观世界](https://appstore.huawei.com/#/app/C104660865)
 * 剧本杀：目前 Android 端已下架，通过关注微信公众号：剧本杀，然后进行引导下载。
 
-![](https://github.com/jeffreyxuworld/jeffreyxuworld.github.io/blob/master/jubensha.jpeg?raw=true)
+![](https://upload-images.jianshu.io/upload_images/633041-d96ce82167d0fc47.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/534)
 
 ![Jeffrey’s github stats](https://github-readme-stats.vercel.app/api?username=jeffreyxuworld&show_icons=true&theme=merko)
 
