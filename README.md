@@ -9,7 +9,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> 👋
 ## 近期参与开发的部分产品如下：
 * [新物集](https://app.mi.com/details?id=com.youkagames.gameplatform)
 * [小游观世界](https://appstore.huawei.com/#/app/C104660865)
-* 剧本杀
+* 剧本杀：目前 Android 端已下架，通过关注微信公众号：剧本杀，然后进行引导下载。
 
 ![](https://github.com/jeffreyxuworld/jeffreyxuworld.github.io/blob/master/jubensha.jpeg?raw=true)
 
