@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> 👋
 
 - 📍Base in China 🇨🇳（Jeffrey）
 
-- Ex-杭州游卡网络技术有限公司、Ex-渡鸦科技(YC W15、微软加速器(北京)第五期校友)
+- Ex-杭州游卡网络技术有限公司(三国杀、剧本杀游戏所属公司)、Ex-渡鸦科技(YC W15、微软加速器(北京)第五期校友、被百度9000万美金收购)
 
 
 ## 近期参与开发的部分产品如下：
