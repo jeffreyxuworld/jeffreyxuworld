@@ -16,6 +16,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> 👋
 ![Jeffrey’s github stats](https://github-readme-stats.vercel.app/api?username=jeffreyxuworld&show_icons=true&theme=merko)
 
 ## 博客文章
+* [Android最新应用加固技术，涉及到的一些点](https://juejin.cn/post/7297094670121926668)
 * [Android使用统一的工具类在公用线程池执行后台操作](https://www.jianshu.com/p/e87f9b0d7362)
 * [Flutter实现Plugin的一些总结，以openinstall.io的flutter的sdk为例](https://www.jianshu.com/p/280e3e155efc)
 * [Flutter 各种布局方式汇总](https://www.jianshu.com/p/64ac46ba5d8e)
