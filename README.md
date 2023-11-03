@@ -8,7 +8,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> 👋
 
 ## 近期参与开发的部分产品如下：
 * [新物集](https://app.mi.com/details?id=com.youkagames.gameplatform)
-* [小游观世界](https://appstore.huawei.com/#/app/C104660865)
+* [小游观世界](https://app.mi.com/details?id=com.yoka.education)
 * 剧本杀：目前 Android 端已在各大应用商店下架，通过关注微信公众号：剧本杀，然后进行引导下载。也可扫描下图的二维码进行安装 APK.
 
 ![](https://upload-images.jianshu.io/upload_images/633041-d96ce82167d0fc47.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/534)
