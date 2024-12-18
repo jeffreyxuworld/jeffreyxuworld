@@ -3,10 +3,12 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> 👋
 
 - 📍Base in China 🇨🇳（Jeffrey）
 
-- Ex-杭州游卡网络技术有限公司(三国杀、剧本杀游戏所属公司)、Ex-渡鸦科技(YC W15、微软加速器(北京)第五期校友、被百度9000万美金收购)
+- Ex-浙江印象软件有限公司(做国内、国外的直播APP)、Ex-杭州游卡网络技术有限公司(三国杀、剧本杀游戏所属公司)、Ex-渡鸦科技(YC W15、微软加速器(北京)第五期校友、被百度9000万美金收购)
 
 
 ## 近期参与开发的部分产品如下：
+* [畅聊直播](https://app.mi.com/details?id=com.impression.biyinzb.client)
+* [AURA LIVE](https://play.google.com/store/apps/details?id=com.auralive.framework)
 * [新物集](https://app.mi.com/details?id=com.youkagames.gameplatform)
 * [小游观世界](https://app.mi.com/details?id=com.yoka.education)
 * 剧本杀：目前 Android 端已在各大应用商店下架，通过关注微信公众号：剧本杀，然后进行引导下载。也可扫描下图的二维码进行安装 APK.
