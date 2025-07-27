@@ -9,7 +9,6 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> 👋
 ## 近期参与开发的部分产品如下：
 * [Yooi](https://play.google.com/store/apps/details?id=com.siyu.yooi)
 * [畅聊直播](https://app.mi.com/details?id=com.impression.biyinzb.client)
-* [AURA LIVE](https://play.google.com/store/apps/details?id=com.auralive.framework)
 * [音播直播](https://app.mi.com/details?id=com.impression.yingbo.client)
 * [新物集](https://app.mi.com/details?id=com.youkagames.gameplatform)
 * [小游观世界](https://app.mi.com/details?id=com.yoka.education)
