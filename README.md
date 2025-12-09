@@ -11,7 +11,6 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> 👋
 * [新物集](https://app.mi.com/details?id=com.youkagames.gameplatform)
 * [小游观世界](https://app.mi.com/details?id=com.yoka.education)
 
-![Jeffrey’s github stats](https://github-readme-stats.vercel.app/api?username=jeffreyxuworld&show_icons=true&theme=merko)
 
 ## 博客文章
 * [Android最新应用加固技术，涉及到的一些点](https://juejin.cn/post/7297094670121926668)
