@@ -8,6 +8,7 @@ Hi there, I'm <a href="https://www.jianshu.com/u/30c022b4d2e0">Jeffrey</a> 👋
 
 ## 近期参与开发的部分产品如下：
 * [流星直播](https://app.mi.com/details?id=com.impression.lxzb.client)
+* [Rizz Live](https://play.google.com/store/apps/details?id=com.auralive.framework)
 * [新物集](https://app.mi.com/details?id=com.youkagames.gameplatform)
 * [小游观世界](https://app.mi.com/details?id=com.yoka.education)
 
